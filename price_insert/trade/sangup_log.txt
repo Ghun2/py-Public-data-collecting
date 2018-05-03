@@ -1,0 +1,167 @@
+Thu Nov 23 19:32:05 2017 index = 200601 totalinsert = 2271 misscount = 25 hitrate = 0.9889916336415676
+Thu Nov 23 20:12:06 2017 index = 200602 totalinsert = 3202 misscount = 41 hitrate = 0.9871955028107433
+Thu Nov 23 21:13:31 2017 index = 200603 totalinsert = 5013 misscount = 55 hitrate = 0.9890285258328346
+Thu Nov 23 21:15:09 2017 index = 200604 totalinsert = 123 misscount = 0 hitrate = 1.0
+Thu Nov 23 22:16:34 2017 index = 200605 totalinsert = 5567 misscount = 70 hitrate = 0.9874259026405604
+Thu Nov 23 23:13:58 2017 index = 200606 totalinsert = 5680 misscount = 61 hitrate = 0.9892605633802817
+Fri Nov 24 00:00:43 2017 index = 200607 totalinsert = 4029 misscount = 66 hitrate = 0.9836187639612807
+Fri Nov 24 00:54:15 2017 index = 200608 totalinsert = 4334 misscount = 49 hitrate = 0.9886940470696816
+Fri Nov 24 02:07:41 2017 index = 200609 totalinsert = 5761 misscount = 74 hitrate = 0.9871550078111438
+Fri Nov 24 03:11:11 2017 index = 200610 totalinsert = 5325 misscount = 58 hitrate = 0.9891079812206572
+Fri Nov 24 04:32:08 2017 index = 200611 totalinsert = 6839 misscount = 80 hitrate = 0.9883023833893844
+Fri Nov 24 05:53:50 2017 index = 200612 totalinsert = 7416 misscount = 105 hitrate = 0.98584142394822
+Thu Nov 23 20:06:09 2017 index = 200701 totalinsert = 5272 misscount = 57 hitrate = 0.9891881638846738
+Thu Nov 23 20:57:45 2017 index = 200702 totalinsert = 4158 misscount = 58 hitrate = 0.9860509860509861
+Thu Nov 23 22:10:36 2017 index = 200703 totalinsert = 6065 misscount = 68 hitrate = 0.9887881286067601
+Thu Nov 23 23:11:41 2017 index = 200704 totalinsert = 5365 misscount = 148 hitrate = 0.9724137931034482
+Fri Nov 24 00:24:40 2017 index = 200705 totalinsert = 5773 misscount = 40 hitrate = 0.9930711934869219
+Fri Nov 24 01:41:04 2017 index = 200706 totalinsert = 5977 misscount = 76 hitrate = 0.9872845909319057
+Fri Nov 24 02:49:56 2017 index = 200707 totalinsert = 5699 misscount = 47 hitrate = 0.9917529391121249
+Fri Nov 24 03:52:06 2017 index = 200708 totalinsert = 5119 misscount = 53 hitrate = 0.9896464153154914
+Fri Nov 24 04:50:52 2017 index = 200709 totalinsert = 4594 misscount = 52 hitrate = 0.9886808881149325
+Fri Nov 24 06:11:47 2017 index = 200710 totalinsert = 7043 misscount = 1376 hitrate = 0.8046287093568082
+Fri Nov 24 06:38:48 2017 missAddress = 200711 / addr = 경상북도 경산시 진량읍 평사리 / index = 2032
+Thu Nov 23 19:57:17 2017 index = 200801 totalinsert = 4815 misscount = 61 hitrate = 0.987331256490135
+Thu Nov 23 20:56:43 2017 index = 200802 totalinsert = 4488 misscount = 40 hitrate = 0.9910873440285205
+Thu Nov 23 22:17:11 2017 index = 200803 totalinsert = 6276 misscount = 87 hitrate = 0.9861376673040153
+Thu Nov 23 23:33:50 2017 index = 200804 totalinsert = 6231 misscount = 78 hitrate = 0.9874819451131439
+Fri Nov 24 01:14:33 2017 index = 200805 totalinsert = 8198 misscount = 65 hitrate = 0.9920712368870456
+Fri Nov 24 02:33:39 2017 index = 200806 totalinsert = 6596 misscount = 90 hitrate = 0.9863553668890237
+Fri Nov 24 03:40:01 2017 index = 200807 totalinsert = 5437 misscount = 51 hitrate = 0.9906198271105389
+Fri Nov 24 04:33:34 2017 index = 200808 totalinsert = 4559 misscount = 40 hitrate = 0.9912261460846676
+Fri Nov 24 05:19:58 2017 index = 200809 totalinsert = 3849 misscount = 48 hitrate = 0.9875292283710054
+Fri Nov 24 06:03:58 2017 index = 200810 totalinsert = 3935 misscount = 48 hitrate = 0.9878017789072427
+Fri Nov 24 06:42:05 2017 index = 200811 totalinsert = 3214 misscount = 29 hitrate = 0.9909769757311762
+Fri Nov 24 07:23:36 2017 index = 200812 totalinsert = 3805 misscount = 171 hitrate = 0.9550591327201051
+Fri Nov 24 18:12:21 2017 missAddress = 200711 / addr = 경상북도 경산시 진량읍 평사리 / index = 2032
+Fri Nov 24 18:50:04 2017 index = 200711 totalinsert = 5532 misscount = 63 hitrate = 0.9886117136659436
+Fri Nov 24 20:08:18 2017 index = 200712 totalinsert = 5943 misscount = 32 hitrate = 0.994615514050143
+Fri Nov 24 19:28:27 2017 index = 201001 totalinsert = 4323 misscount = 32 hitrate = 0.9925977330557483
+Fri Nov 24 20:20:35 2017 index = 201002 totalinsert = 4633 misscount = 55 hitrate = 0.9881286423483704
+Fri Nov 24 20:26:07 2017 missAddress = 201003 / addr = 강원도 횡성군 횡성읍 청룡리 / index = 833
+Fri Nov 24 18:08:13 2017 index = 200901 totalinsert = 2679 misscount = 26 hitrate = 0.990294886151549
+Fri Nov 24 18:50:54 2017 index = 200902 totalinsert = 3816 misscount = 45 hitrate = 0.9882075471698113
+Fri Nov 24 19:52:59 2017 index = 200903 totalinsert = 5312 misscount = 55 hitrate = 0.9896460843373494
+Fri Nov 24 20:52:01 2017 index = 200904 totalinsert = 5218 misscount = 62 hitrate = 0.988118052893829
+Fri Nov 24 22:00:30 2017 index = 200905 totalinsert = 5806 misscount = 56 hitrate = 0.9903548053737513
+Fri Nov 24 23:18:41 2017 index = 200906 totalinsert = 6588 misscount = 57 hitrate = 0.9913479052823315
+Sat Nov 25 00:34:56 2017 index = 200907 totalinsert = 6161 misscount = 58 hitrate = 0.9905859438402856
+Sat Nov 25 01:04:54 2017 missAddress = 200908 / addr = 경상북도 경산시 진량읍 평사리 / index = 2020
+Fri Nov 24 22:31:22 2017 index = 201101 totalinsert = 5911 misscount = 61 hitrate = 0.9896802571476907
+Fri Nov 24 23:32:47 2017 index = 201102 totalinsert = 6399 misscount = 44 hitrate = 0.9931239256133771
+Sat Nov 25 01:01:12 2017 index = 201103 totalinsert = 7794 misscount = 80 hitrate = 0.9897356941236849
+Sat Nov 25 02:19:09 2017 index = 201104 totalinsert = 7328 misscount = 69 hitrate = 0.9905840611353712
+Sat Nov 25 03:24:19 2017 index = 201105 totalinsert = 6456 misscount = 69 hitrate = 0.9893122676579925
+Sat Nov 25 04:43:40 2017 index = 201106 totalinsert = 7334 misscount = 79 hitrate = 0.989228251977093
+Sat Nov 25 05:54:40 2017 index = 201107 totalinsert = 6868 misscount = 62 hitrate = 0.9909726266744322
+Sat Nov 25 07:10:17 2017 index = 201108 totalinsert = 6948 misscount = 66 hitrate = 0.9905008635578584
+Sat Nov 25 07:37:50 2017 missAddress = 201109 / addr = 경상북도 경산시 진량읍 평사리 / index = 2559
+Fri Nov 24 21:39:22 2017 missAddress = 201003 / addr = 강원도 횡성군 횡성읍 청룡리 / index = 833
+Fri Nov 24 22:47:24 2017 index = 201003 totalinsert = 6347 misscount = 84 hitrate = 0.9867654009768394
+Fri Nov 24 23:47:35 2017 index = 201004 totalinsert = 5042 misscount = 69 hitrate = 0.9863149543831813
+Sat Nov 25 00:48:33 2017 index = 201005 totalinsert = 5001 misscount = 50 hitrate = 0.99000199960008
+Sat Nov 25 01:54:34 2017 index = 201006 totalinsert = 5352 misscount = 58 hitrate = 0.9891629297458894
+Sat Nov 25 02:50:49 2017 index = 201007 totalinsert = 5087 misscount = 66 hitrate = 0.9870257519166503
+Sat Nov 25 03:50:41 2017 index = 201008 totalinsert = 4862 misscount = 66 hitrate = 0.9864253393665159
+Sat Nov 25 04:34:31 2017 index = 201009 totalinsert = 3985 misscount = 55 hitrate = 0.986198243412798
+Sat Nov 25 05:39:48 2017 index = 201010 totalinsert = 5567 misscount = 58 hitrate = 0.9895814621878929
+Sat Nov 25 06:48:07 2017 index = 201011 totalinsert = 6091 misscount = 87 hitrate = 0.9857166310950582
+Sat Nov 25 08:10:54 2017 index = 201012 totalinsert = 7852 misscount = 66 hitrate = 0.9915944982170147
+Sat Nov 25 03:08:27 2017 missAddress = 200908 / addr = 경상북도 경산시 진량읍 평사리 / index = 2020
+Sat Nov 25 03:42:02 2017 index = 200908 totalinsert = 5148 misscount = 51 hitrate = 0.9900932400932401
+Sat Nov 25 05:00:26 2017 index = 200909 totalinsert = 7020 misscount = 129 hitrate = 0.9816239316239316
+Sat Nov 25 06:15:08 2017 index = 200910 totalinsert = 5975 misscount = 58 hitrate = 0.9902928870292887
+Sat Nov 25 07:09:54 2017 index = 200911 totalinsert = 4730 misscount = 41 hitrate = 0.9913319238900634
+Sat Nov 25 08:21:55 2017 index = 200912 totalinsert = 6314 misscount = 63 hitrate = 0.9900221729490022
+Sat Nov 25 14:02:16 2017 index = 201201 totalinsert = 5393 misscount = 82 hitrate = 0.9847951047654366
+Sat Nov 25 15:10:46 2017 index = 201202 totalinsert = 6395 misscount = 126 hitrate = 0.9802971071149336
+Sat Nov 25 16:30:08 2017 index = 201203 totalinsert = 7291 misscount = 92 hitrate = 0.9873817034700315
+Sat Nov 25 13:31:25 2017 missAddress = 201109 / addr = 경상북도 경산시 진량읍 평사리 / index = 2559
+Sat Nov 25 14:02:48 2017 index = 201109 totalinsert = 5844 misscount = 71 hitrate = 0.9878507871321013
+Sat Nov 25 15:03:36 2017 index = 201110 totalinsert = 6734 misscount = 62 hitrate = 0.9907929907929908
+Sat Nov 25 16:08:24 2017 index = 201111 totalinsert = 6104 misscount = 62 hitrate = 0.9898427260812582
+Sat Nov 25 14:11:59 2017 index = 201301 totalinsert = 4987 misscount = 57 hitrate = 0.9885702827351113
+Sat Nov 25 15:07:05 2017 index = 201302 totalinsert = 5281 misscount = 62 hitrate = 0.9882597992804393
+Sat Nov 25 16:16:23 2017 index = 201303 totalinsert = 6348 misscount = 85 hitrate = 0.9866099558916194
+Sat Nov 25 18:10:02 2017 index = 201112 totalinsert = 6903 misscount = 33 hitrate = 0.9952194697957409
+Sat Nov 25 18:23:42 2017 index = 201204 totalinsert = 6178 misscount = 61 hitrate = 0.9901262544512788
+Sat Nov 25 18:27:30 2017 index = 201304 totalinsert = 7193 misscount = 62 hitrate = 0.9913805088280272
+Sat Nov 25 19:10:32 2017 index = 201401 totalinsert = 5728 misscount = 72 hitrate = 0.9874301675977654
+Sat Nov 25 20:10:04 2017 index = 201402 totalinsert = 6355 misscount = 120 hitrate = 0.981117230527144
+Sat Nov 25 21:43:36 2017 index = 201403 totalinsert = 8837 misscount = 107 hitrate = 0.987891818490438
+Sat Nov 25 22:51:29 2017 index = 201404 totalinsert = 7708 misscount = 95 hitrate = 0.9876751427088739
+Sat Nov 25 23:54:37 2017 index = 201405 totalinsert = 6747 misscount = 87 hitrate = 0.987105380168964
+Sun Nov 26 01:01:38 2017 index = 201406 totalinsert = 7374 misscount = 87 hitrate = 0.9882017900732303
+Sun Nov 26 02:10:22 2017 index = 201407 totalinsert = 7540 misscount = 81 hitrate = 0.9892572944297082
+Sun Nov 26 03:11:01 2017 index = 201408 totalinsert = 6653 misscount = 97 hitrate = 0.9854201112280174
+Sun Nov 26 04:21:25 2017 index = 201409 totalinsert = 7762 misscount = 97 hitrate = 0.9875032208193765
+Sun Nov 26 05:40:01 2017 index = 201410 totalinsert = 8523 misscount = 216 hitrate = 0.9746568109820486
+Sun Nov 26 07:02:01 2017 index = 201411 totalinsert = 8143 misscount = 125 hitrate = 0.9846493921159278
+Sun Nov 26 08:11:24 2017 index = 201412 totalinsert = 7779 misscount = 110 hitrate = 0.9858593649569354
+Mon Nov 27 12:45:37 2017 index = 201205 totalinsert = 6355 misscount = 86 hitrate = 0.9864673485444532
+Mon Nov 27 13:54:34 2017 index = 201206 totalinsert = 6222 misscount = 74 hitrate = 0.9881067180970748
+Mon Nov 27 14:58:22 2017 index = 201207 totalinsert = 5658 misscount = 81 hitrate = 0.9856839872746553
+Mon Nov 27 15:55:43 2017 index = 201208 totalinsert = 5160 misscount = 66 hitrate = 0.9872093023255814
+Mon Nov 27 17:06:01 2017 index = 201209 totalinsert = 6870 misscount = 58 hitrate = 0.9915574963609898
+Mon Nov 27 18:10:36 2017 index = 201210 totalinsert = 6128 misscount = 81 hitrate = 0.9867819843342036
+Mon Nov 27 19:20:26 2017 index = 201211 totalinsert = 6556 misscount = 79 hitrate = 0.9879499694935937
+Mon Nov 27 20:21:07 2017 index = 201212 totalinsert = 5753 misscount = 61 hitrate = 0.9893968364331653
+Mon Nov 27 12:50:21 2017 index = 201305 totalinsert = 6874 misscount = 94 hitrate = 0.9863252836776258
+Mon Nov 27 14:04:30 2017 index = 201306 totalinsert = 6546 misscount = 93 hitrate = 0.9857928505957837
+Mon Nov 27 15:11:36 2017 index = 201307 totalinsert = 6232 misscount = 82 hitrate = 0.9868421052631579
+Mon Nov 27 16:22:20 2017 index = 201308 totalinsert = 6053 misscount = 62 hitrate = 0.9897571452172477
+Mon Nov 27 17:22:31 2017 index = 201309 totalinsert = 5520 misscount = 71 hitrate = 0.9871376811594202
+Mon Nov 27 18:35:40 2017 index = 201310 totalinsert = 6427 misscount = 90 hitrate = 0.98599657694103
+Mon Nov 27 20:09:01 2017 index = 201311 totalinsert = 7715 misscount = 81 hitrate = 0.98950097213221
+Mon Nov 27 21:21:35 2017 index = 201312 totalinsert = 6848 misscount = 82 hitrate = 0.9880257009345794
+Mon Nov 27 12:58:05 2017 index = 201501 totalinsert = 6795 misscount = 102 hitrate = 0.9849889624724062
+Mon Nov 27 14:09:43 2017 index = 201502 totalinsert = 6361 misscount = 102 hitrate = 0.9839647854110989
+Mon Nov 27 14:54:32 2017 missAddress = 201503 / addr = 경상북도 경산시 진량읍 평사리 / index = 3634
+Mon Nov 27 15:49:38 2017 index = 201503 totalinsert = 9116 misscount = 165 hitrate = 0.9818999561211057
+Mon Nov 27 17:48:17 2017 index = 201504 totalinsert = 10174 misscount = 193 hitrate = 0.9810300766660114
+Mon Nov 27 19:15:25 2017 index = 201505 totalinsert = 7904 misscount = 160 hitrate = 0.979757085020243
+Mon Nov 27 20:00:25 2017 missAddress = 201506 / addr = 경상북도 경산시 진량읍 평사리 / index = 3694
+Mon Nov 27 21:06:45 2017 index = 201506 totalinsert = 10155 misscount = 184 hitrate = 0.9818808468734613
+Mon Nov 27 22:26:48 2017 index = 201507 totalinsert = 8807 misscount = 145 hitrate = 0.9835358237765414
+Mon Nov 27 23:28:10 2017 index = 201508 totalinsert = 7165 misscount = 124 hitrate = 0.9826936496859735
+Tue Nov 28 00:37:37 2017 index = 201509 totalinsert = 7415 misscount = 121 hitrate = 0.9836817262306137
+Tue Nov 28 01:54:02 2017 index = 201510 totalinsert = 8135 misscount = 240 hitrate = 0.9704978488014752
+Tue Nov 28 03:07:23 2017 index = 201511 totalinsert = 7825 misscount = 164 hitrate = 0.9790415335463258
+Tue Nov 28 03:43:20 2017 missAddress = 201512 / addr = 경상북도 경산시 진량읍 평사리 / index = 3251
+Tue Nov 28 04:27:09 2017 index = 201512 totalinsert = 8200 misscount = 170 hitrate = 0.9792682926829268
+Mon Dec  4 16:05:06 2017 index = 201701 totalinsert = 6263 misscount = 92 hitrate = 0.985310554047581
+Mon Dec  4 16:34:12 2017 missAddress = 201702 / addr = 경상북도 경산시 진량읍 평사리 / index = 2537
+Mon Dec  4 17:14:24 2017 index = 201702 totalinsert = 6874 misscount = 95 hitrate = 0.9861798079720686
+Mon Dec  4 18:42:44 2017 index = 201703 totalinsert = 8766 misscount = 133 hitrate = 0.984827743554643
+Mon Dec  4 19:17:20 2017 missAddress = 201704 / addr = 경상북도 경산시 진량읍 평사리 / index = 3037
+Mon Dec  4 20:05:02 2017 index = 201704 totalinsert = 8396 misscount = 119 hitrate = 0.9858265840876608
+Mon Dec  4 21:22:16 2017 index = 201705 totalinsert = 7990 misscount = 107 hitrate = 0.9866082603254067
+Mon Dec  4 22:46:55 2017 index = 201706 totalinsert = 8899 misscount = 104 hitrate = 0.9883132936284976
+Tue Dec  5 00:06:51 2017 missAddress = 201707 / addr = 충청남도 홍성군 홍북읍 신경리 / index = 8221
+Tue Dec  5 00:07:45 2017 index = 201707 totalinsert = 8516 misscount = 104 hitrate = 0.9877876937529356
+Tue Dec  5 01:33:59 2017 missAddress = 201708 / addr = 충청남도 홍성군 홍북읍 신경리 / index = 8292
+Tue Dec  5 01:33:59 2017 missAddress = 201708 / addr = 충청남도 홍성군 홍북읍 신경리 / index = 8293
+Tue Dec  5 01:34:47 2017 index = 201708 totalinsert = 8518 misscount = 87 hitrate = 0.9897863348203804
+Tue Dec  5 02:57:39 2017 missAddress = 201709 / addr = 충청남도 홍성군 홍북읍 신경리 / index = 7991
+Tue Dec  5 02:57:39 2017 missAddress = 201709 / addr = 충청남도 홍성군 홍북읍 신경리 / index = 7992
+Tue Dec  5 02:58:38 2017 index = 201709 totalinsert = 8225 misscount = 112 hitrate = 0.9863829787234043
+Tue Dec  5 03:56:10 2017 missAddress = 201710 / addr = 충청남도 홍성군 홍북읍 신경리 / index = 5060
+Tue Dec  5 03:56:10 2017 missAddress = 201710 / addr = 충청남도 홍성군 홍북읍 신경리 / index = 5061
+Tue Dec  5 03:56:38 2017 index = 201710 totalinsert = 5180 misscount = 55 hitrate = 0.9893822393822393
+Tue Dec  5 04:33:44 2017 index = 201711 totalinsert = 3335 misscount = 43 hitrate = 0.9871064467766117
+Mon Dec  4 15:52:59 2017 index = 201601 totalinsert = 6744 misscount = 154 hitrate = 0.977164887307236
+Mon Dec  4 17:02:23 2017 index = 201602 totalinsert = 6900 misscount = 445 hitrate = 0.9355072463768116
+Mon Dec  4 18:42:18 2017 index = 201603 totalinsert = 9525 misscount = 550 hitrate = 0.9422572178477691
+Mon Dec  4 20:00:26 2017 index = 201604 totalinsert = 7887 misscount = 212 hitrate = 0.9731203245847597
+Mon Dec  4 21:20:53 2017 index = 201605 totalinsert = 8152 misscount = 226 hitrate = 0.9722767419038273
+Mon Dec  4 22:00:50 2017 missAddress = 201606 / addr = 경상북도 경산시 진량읍 평사리 / index = 3460
+Mon Dec  4 22:53:35 2017 index = 201606 totalinsert = 9098 misscount = 193 hitrate = 0.9787865464937349
+Tue Dec  5 00:31:51 2017 index = 201607 totalinsert = 9298 misscount = 144 hitrate = 0.9845127984512798
+Tue Dec  5 02:00:40 2017 index = 201608 totalinsert = 8478 misscount = 147 hitrate = 0.9826610049539986
+Tue Dec  5 02:34:06 2017 missAddress = 201609 / addr = 경상북도 경산시 진량읍 평사리 / index = 2898
+Tue Dec  5 03:26:20 2017 index = 201609 totalinsert = 8064 misscount = 120 hitrate = 0.9851190476190477
+Tue Dec  5 04:50:30 2017 missAddress = 201610 / addr = 충청북도 청주시 청원구 오창읍 화산리 / index = 8558
+Tue Dec  5 04:50:30 2017 missAddress = 201610 / addr = 충청북도 청주시 청원구 오창읍 화산리 / index = 8559
+Tue Dec  5 04:50:49 2017 index = 201610 totalinsert = 8638 misscount = 128 hitrate = 0.9851817550358879
+Tue Dec  5 06:07:47 2017 index = 201611 totalinsert = 7898 misscount = 104 hitrate = 0.9868321093947835
+Tue Dec  5 07:17:27 2017 index = 201612 totalinsert = 7576 misscount = 104 hitrate = 0.986272439281943
